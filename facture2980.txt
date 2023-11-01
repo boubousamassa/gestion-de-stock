@@ -1,0 +1,11 @@
+		SAMASSA FACTURE
+Numéro Facture : 2980
+Nom Client      : 
+Numero Client : 
+********************************************************
+Produits		Qte		Prix
+********************************************************
+Tomate		2		500
+Somme Client :		15000
+Somme produit :		1000
+Total Net :		14000
